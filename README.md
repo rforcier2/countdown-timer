@@ -1,2 +1,3 @@
 # countdown-timer
-Building a countdown timer as my first React project
+My first ReactJS Project. Making a countdown timer to any time a user inputs.
+
