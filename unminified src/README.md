@@ -6,6 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
 ## Updating the date
 You may update the date using various methods including :
- - Using a string: December 01, 2018
+ - Using a string: December 01, 2018 or 1 December 2018
  - Using dashes: 12-01-2018
  - Using slashes: 12/01/2018
