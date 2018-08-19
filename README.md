@@ -5,6 +5,9 @@ This timer displays:
  - Hours
  - Minutes
  - Seconds
+
+ This project utilizes React's state management functionality to update the time every second, and update a new deadline whenever a user inputs and submits a new date.
+ 
 ## Live demo:
 You can view a live demo [here](https://starlimeweb.com/countdown/)
 ## Updating the date
