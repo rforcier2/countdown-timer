@@ -6,7 +6,7 @@ This timer displays:
  - Minutes
  - Seconds
 
- This project utilizes React's state management functionality to update the time every second, and update a new deadline whenever a user inputs and submits a new date.
+ This project demonstrates React's state management functionality utilizing the ```setState()``` method along with mounting components. This state management allows the project to update the time until the deadline every second and change to represent a new deadline whenever a user inputs and submits a new date regardless of format.
  
 ## Live demo:
 You can view a live demo [here](https://starlimeweb.com/countdown/)
